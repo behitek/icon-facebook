@@ -1,5 +1,7 @@
 Live demo: https://nguyenvanhieuvn.github.io/icon-facebook/
-(Bản clone của https://www.smileysapp.com/emojiPicker/)
+
+> (Bản clone của https://www.smileysapp.com/emojiPicker/)
+
 # Setup
 Toàn bộ website sử dụng HTML, CSS, JS để vận hành. Bạn có thể deploy lên các dịch vụ online miễn phí như Github Page, Surge.sh,...
 ```
